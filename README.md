@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ivan
-- 👀 I’m interested in aprender y hacer ejercicio
-- 🌱 I’m currently learning Ingles y Prgramacion
+- 👀 I'm interested in learning and exercising
+- 🌱 I'm currently learning English and Programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
